@@ -1,18 +1,6 @@
-<!DOCTYPE html>
-<html>
-    <head>
-        <title> Projects </title>
-    </head>
+### Welome to my page. I post all my completed Frontend Mentor Challenges here.
 
-<body>
-    <h1>Frontend Mentor Challenges</h1>
-    <p>
-        View <link href="https://github.com/tarinbuys/Four-card-feature-section>" my solution for the "Four Card Feature Section" challenge.
-    </p>
-</body>
-
-</html>
-## Welcome to GitHub Pages
+You can view my solution for the "Four Card Feature Section" challenge by clicking [here](https://github.com/tarinbuys/Four-card-feature-section).
 
 You can use the [editor on GitHub](https://github.com/tarinbuys/tarinbuys.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
