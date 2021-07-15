@@ -1,3 +1,17 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title> Projects </title>
+    </head>
+
+<body>
+    <h1>Frontend Mentor Challenges</h1>
+    <p>
+        View <link href="https://github.com/tarinbuys/Four-card-feature-section>" my solution for the "Four Card Feature Section" challenge.
+    </p>
+</body>
+
+</html>
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/tarinbuys/tarinbuys.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
