@@ -1,6 +1,3 @@
-<html>
-<body>
-    <p>
 Welome to my page. I post all my completed challenges and completed code-only projects here.
 
 You can view my solution for the "Four Card Feature Section" challenge by clicking <a href="https://tarinbuys.github.io/Four-card-feature-section/">here.</a>
@@ -16,6 +13,3 @@ I created this GitHub account (and a new Twitter page) to share my progress and 
 Thank you for reading this!
 
 If you would like to get in touch with me, please email me via tarin@buysmanagement.co.za
-    </p>
-</body>
-</html>
