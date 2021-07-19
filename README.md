@@ -1,6 +1,11 @@
-Welome to my page. I post all my completed challenges and completed code-only projects here.
+Welome to my page. I post all my completed challenges and completed code-only projects here. 
+You can view my solutions here [HTML + CSS]:
 
-You can view my solution for the "Four Card Feature Section" challenge by clicking [here](https://tarinbuys.github.io/Four-card-feature-section/).
+"Four Card Feature Section" challenge [page](https://tarinbuys.github.io/Four-card-feature-section/).
+
+"Single Price Grid Component" challenge [page](https://tarinbuys.github.io/Single-price-grid-component/).
+
+
 
 A little about me:
 
